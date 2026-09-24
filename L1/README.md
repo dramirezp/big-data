@@ -1,0 +1,1 @@
+The code in these folders is designed to help you practice building Docker images and become familiar with Big Data tools. Please follow the README.md file in each folder and make sure you can execute the files. Remember, the first step is to [install Docker](https://docs.docker.com/desktop/setup/install/windows-install/).
